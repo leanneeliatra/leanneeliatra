@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leanneeliatra
-- 👀 I’m interested in ... React, Angular, JS, TS, learning, developing, yoga, reading, concerts, painting/
+- 👀 I’m interested in ... React, Angular, JS, TS, learning, developing, yoga, reading, concerts, painting
 - 🌱 I’m currently learning ... Jest
 - 💞️ I’m looking to collaborate on ... Any JS projects :) Let's learn together!
 - 📫 How to reach me ... leanne.laceybyrne@eliatra.com
